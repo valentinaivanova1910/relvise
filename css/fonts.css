@@ -1,0 +1,54 @@
+@font-face{
+    font-family:'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Montserrat'),
+         url('fonts/Montserrat/Montserrat-Regular.woff2') format('woff2'),
+         url('fonts/Montserrat/Montserrat-Regular.woff') format('woff') ;
+    font-display: swap;
+}
+@font-face{
+    font-family:'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    src: local('Montserrat'),
+         url('fonts/Montserrat/Montserrat-Medium.woff2') format('woff2'),
+         url('fonts/Montserrat/Montserrat-Medium.woff') format('woff') ;
+    font-display: swap;
+}
+@font-face{
+    font-family:'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    src: local('Montserrat'),
+         url('fonts/Montserrat/Montserrat-SemiBolt.woff2') format('woff2'),
+         url('fonts/Montserrat/Montserrat-SemiBolt.woff') format('woff') ;
+    font-display: swap;
+}
+@font-face{
+    font-family:'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    src: local('Montserrat'),
+         url('fonts/Montserrat/Montserrat-Bold.woff2') format('woff2'),
+         url('fonts/Montserrat/Montserrat-Bold.woff') format('woff') ;
+    font-display: swap;
+}
+@font-face{
+    font-family:'Montserrat';
+    font-style: normal;
+    font-weight: 800;
+    src: local('Montserrat'),
+         url('fonts/Montserrat/Montserrat-ExtraBold.woff2') format('woff2'),
+         url('fonts/Montserrat/Montserrat-ExtraBold.woff') format('woff') ;
+    font-display: swap;
+}
+@font-face{
+    font-family:'Montserrat';
+    font-style: normal;
+    font-weight: 900;
+    src: local('Montserrat'),
+         url('fonts/Montserrat/Montserrat-Black.woff2') format('woff2'),
+         url('fonts/Montserrat/Montserrat-Black.woff') format('woff') ;
+    font-display: swap;
+}
